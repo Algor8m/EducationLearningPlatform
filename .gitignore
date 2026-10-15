@@ -1,2 +1,5 @@
 node_modules/
-.env
+.envbackend/createEducator.js
+backend/.env
+backend/node_modules/
+/backend/createEducator.js
